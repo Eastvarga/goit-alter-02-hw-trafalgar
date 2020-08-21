@@ -1,0 +1,28 @@
+@import "http://fonts.fontstorage.com/import/muli.css";
+
+/* color: #233348; */
+/* color: #ffffff; */
+/* nav black color: #1f1534; */
+/* text black color: #000000; */
+/* main text grey color: #7D7987; */
+/* link text, bg color: #458FF6; */
+/* Testimonials text color: rgba(255, 255, 255, 0.9); */
+/* Testimonials text-2 color: rgba(255, 255, 255, 0.85); */
+/* Testimonials background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%); */
+/* read more text color: #4089ED; */
+/* footer logo-icon color: #5B9BF3; */
+/* main background color: #E5E5E5; */
+/* footer background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%); */
+
+body {
+  font-family: "Muli";
+  font-style: normal;
+  font-weight: 300;
+}
+*,
+*::after,
+*::before {
+  font-family: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+}
